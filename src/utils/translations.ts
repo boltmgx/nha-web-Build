@@ -22,7 +22,7 @@ export const translations = {
     },
     userProfile: {
       badge: "What makes us unique",
-      title: "NHA HealthTech",
+      title: "Mi-Health App",
       subtitle: "We truly unified personal health records at your fingertips.",
       features: {
         phr: {
@@ -41,8 +41,8 @@ export const translations = {
     },
     features: {
       badge: "What makes us unique",
-      title: "Nha Healthtech Is The Interface Solution That Prepares Your Medical Records In A Uniform Structure And Gives You The Opportunity To Share It With Ease",
-      subtitle: "Once You Login, You Can Easily Share Your Medical Records – With Different Health Centers Across Cameroon Seamlessly – With Nha App",
+      title: "Mi-Health Is The Interface Solution That Prepares Your Medical Records In A Uniform Structure And Gives You The Opportunity To Share It With Ease",
+      subtitle: "Once You Login, You Can Easily Share Your Medical Records – With Different Health Centers Across Cameroon Seamlessly – With Mi-Health App",
       cards: {
         unite: {
           title: "Unite Your Fragmented Health Records",
@@ -180,35 +180,35 @@ export const translations = {
     faq: {
       badge: "All What You Need To know to Get Started",
       title: "Find The Answers To All Your Questions",
-      subtitle: "Go through the frequently asked questions concerning NHA HEALTHTECH. Need help? Contact our team for support at all instance",
+      subtitle: "Go through the frequently asked questions concerning Mi-HEALTH. Need help? Contact our team for support at all instance",
       questions: [
         {
           question: "What is Mi-Health",
-          answer: "NHA-HEALTHTECH is a HealthTech startup registered in Cameroon, in the pre-seed phase, created to develop and make available health technology and digital health solutions for individuals/patients and healthcare facilities in Africa, particularly in Cameroon."
+          answer: "Mi-Health is a comprehensive digital health platform developed by NHA-HEALTHTECH, a HealthTech startup registered in Cameroon. We're in the pre-seed phase, created to develop and make available health technology and digital health solutions for individuals/patients and healthcare facilities in Africa, particularly in Cameroon."
         },
         {
           question: "Is my health information truly private and secure?",
-          answer: ""
+          answer: "Yes, absolutely. Mi-Health uses AES-256 encryption at rest and TLS 1.3 during transmission. We're 100% compliant with data protection laws and regularly audited by security experts."
         },
         {
           question: "Can Mi-HEALTH integrate with my current doctor's system?", 
-          answer: ""
+          answer: "Yes, Mi-Health is designed to seamlessly integrate with existing Electronic Health Record (EHR) systems used by healthcare providers across Cameroon."
         },
         {
           question: "What kind of support is available if I encounter issues?",
-          answer: ""
+          answer: "We provide comprehensive support through multiple channels including email, phone, and in-app chat. Our team is available to help you with any technical issues or questions about using the platform."
         },
         {
           question: "Can I use Mi-HEALTH offline?",
-          answer: ""
+          answer: "Yes, Mi-Health offers offline access to your essential health records. The app will sync your data when you're back online to ensure everything is up to date."
         },
         {
           question: "How does Mi-HEALTH ensure data accuracy?",
-          answer: ""
+          answer: "Mi-Health uses advanced validation algorithms and allows healthcare providers to verify and update information. You can also review and confirm all data entries."
         },
         {
           question: "Are there free access for premium features?",
-          answer: ""
+          answer: "Yes, we offer a free Individual Plan with basic features. Premium features are available through our Pro and Limitless plans, with a 30-day free trial available."
         }
       ]
     },
@@ -247,7 +247,7 @@ export const translations = {
     about: {
       badge: "Join Thousands Of People In The Waiting List For an Exclusive Access !",
       title: "Join the Waiting List and Be Among The Exclusive First To Discover !",
-      subtitle: "Register and secure your spot to be the first informed when the product is lunch, Special promotions and Exclusive Features. Join our Waiting List Today !",
+      subtitle: "Register and secure your spot to be the first informed when the product is launched, Special promotions and Exclusive Features. Join our Waiting List Today !",
       emailPlaceholder: "Enter Email",
       joinWaitlist: "Join Waiting List"
     },
@@ -260,12 +260,12 @@ export const translations = {
       qrCode: "Scan QR Code to Download"
     },
     footer: {
-      description: "NHA-HEALTHTECH is a HealthTech startup registered in Cameroon, in the pre-seed phase, created to develop and make available health technology and digital health solutions for individuals/patients and healthcare facilities in Africa, particularly in Cameroon.",
+      description: "Mi-Health is a comprehensive digital health platform developed by NHA-HEALTHTECH, a HealthTech startup registered in Cameroon. We're in the pre-seed phase, created to develop and make available health technology and digital health solutions for individuals/patients and healthcare facilities in Africa, particularly in Cameroon.",
       credentials: "Credentials",
       email: "Email",
       telephone: "Telephone",
       since: "SINCE. 2025",
-      rights: "©NHA_HEALTHTECH. All rights reserved"
+      rights: "©MI-HEALTH. All rights reserved"
     }
   },
   fr: {
@@ -291,7 +291,7 @@ export const translations = {
     },
     userProfile: {
       badge: "Ce qui nous rend unique",
-      title: "NHA HealthTech",
+      title: "Application Mi-Health",
       subtitle: "Nous avons vraiment unifié les dossiers de santé personnels à portée de main.",
       features: {
         phr: {
@@ -310,8 +310,8 @@ export const translations = {
     },
     features: {
       badge: "Ce qui nous rend unique",
-      title: "Nha Healthtech Est La Solution d'Interface Qui Prépare Vos Dossiers Médicaux Dans Une Structure Uniforme Et Vous Donne L'Opportunité De Les Partager Facilement",
-      subtitle: "Une Fois Connecté, Vous Pouvez Facilement Partager Vos Dossiers Médicaux – Avec Différents Centres de Santé à Travers le Cameroun Sans Effort – Avec l'App Nha",
+      title: "Mi-Health Est La Solution d'Interface Qui Prépare Vos Dossiers Médicaux Dans Une Structure Uniforme Et Vous Donne L'Opportunité De Les Partager Facilement",
+      subtitle: "Une Fois Connecté, Vous Pouvez Facilement Partager Vos Dossiers Médicaux – Avec Différents Centres de Santé à Travers le Cameroun Sans Effort – Avec l'App Mi-Health",
       cards: {
         unite: {
           title: "Unifiez Vos Dossiers de Santé Fragmentés",
@@ -449,35 +449,35 @@ export const translations = {
     faq: {
       badge: "Tout Ce Que Vous Devez Savoir Pour Commencer",
       title: "Trouvez les Réponses à Toutes Vos Questions",
-      subtitle: "Parcourez les questions fréquemment posées concernant NHA HEALTHTECH. Besoin d'aide ? Contactez notre équipe pour un support à tout moment",
+      subtitle: "Parcourez les questions fréquemment posées concernant Mi-HEALTH. Besoin d'aide ? Contactez notre équipe pour un support à tout moment",
       questions: [
         {
           question: "Qu'est-ce que Mi-Health",
-          answer: "NHA-HEALTHTECH est une startup HealthTech enregistrée au Cameroun, en phase de pré-amorçage, créée pour développer et rendre disponibles des technologies de santé et des solutions de santé numérique pour les individus/patients et les établissements de soins de santé en Afrique, particulièrement au Cameroun."
+          answer: "Mi-Health est une plateforme de santé numérique complète développée par NHA-HEALTHTECH, une startup HealthTech enregistrée au Cameroun. Nous sommes en phase de pré-amorçage, créée pour développer et rendre disponibles des technologies de santé et des solutions de santé numérique pour les individus/patients et les établissements de soins de santé en Afrique, particulièrement au Cameroun."
         },
         {
           question: "Mes informations de santé sont-elles vraiment privées et sécurisées ?",
-          answer: ""
+          answer: "Oui, absolument. Mi-Health utilise un chiffrement AES-256 au repos et TLS 1.3 pendant la transmission. Nous sommes 100% conformes aux lois de protection des données et régulièrement audités par des experts en sécurité."
         },
         {
           question: "Mi-HEALTH peut-il s'intégrer avec le système de mon médecin actuel ?",
-          answer: ""
+          answer: "Oui, Mi-Health est conçu pour s'intégrer de manière transparente avec les systèmes de Dossiers de Santé Électroniques (DSE) existants utilisés par les prestataires de soins de santé à travers le Cameroun."
         },
         {
           question: "Quel type de support est disponible si je rencontre des problèmes ?",
-          answer: ""
+          answer: "Nous fournissons un support complet à travers plusieurs canaux incluant email, téléphone et chat dans l'application. Notre équipe est disponible pour vous aider avec tout problème technique ou question sur l'utilisation de la plateforme."
         },
         {
           question: "Puis-je utiliser Mi-HEALTH hors ligne ?",
-          answer: ""
+          answer: "Oui, Mi-Health offre un accès hors ligne à vos dossiers de santé essentiels. L'application synchronisera vos données quand vous serez de nouveau en ligne pour s'assurer que tout est à jour."
         },
         {
           question: "Comment Mi-HEALTH assure-t-il la précision des données ?",
-          answer: ""
+          answer: "Mi-Health utilise des algorithmes de validation avancés et permet aux prestataires de soins de santé de vérifier et mettre à jour les informations. Vous pouvez également réviser et confirmer toutes les entrées de données."
         },
         {
           question: "Y a-t-il un accès gratuit aux fonctionnalités premium ?",
-          answer: ""
+          answer: "Oui, nous offrons un Plan Individuel gratuit avec des fonctionnalités de base. Les fonctionnalités premium sont disponibles à travers nos plans Pro et Illimité, avec un essai gratuit de 30 jours disponible."
         }
       ]
     },
@@ -529,12 +529,12 @@ export const translations = {
       qrCode: "Scanner le Code QR pour Télécharger"
     },
     footer: {
-      description: "NHA-HEALTHTECH est une startup HealthTech enregistrée au Cameroun, en phase de pré-amorçage, créée pour développer et rendre disponibles des technologies de santé et des solutions de santé numérique pour les individus/patients et les établissements de soins de santé en Afrique, particulièrement au Cameroun.",
+      description: "Mi-Health est une plateforme de santé numérique complète développée par NHA-HEALTHTECH, une startup HealthTech enregistrée au Cameroun. Nous sommes en phase de pré-amorçage, créée pour développer et rendre disponibles des technologies de santé et des solutions de santé numérique pour les individus/patients et les établissements de soins de santé en Afrique, particulièrement au Cameroun.",
       credentials: "Références",
       email: "Email",
       telephone: "Téléphone",
       since: "DEPUIS. 2025",
-      rights: "©NHA_HEALTHTECH. Tous droits réservés"
+      rights: "©MI-HEALTH. Tous droits réservés"
     }
   }
 };
